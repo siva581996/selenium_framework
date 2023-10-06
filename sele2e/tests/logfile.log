@@ -1,0 +1,91 @@
+2023-10-06 13:19:58,055 :INFO : test_e2e : getting all card details
+2023-10-06 13:19:58,231 :INFO : test_e2e : iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2023-10-06 13:19:58,254 :INFO : test_e2e : Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2023-10-06 13:19:58,292 :INFO : test_e2e : Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2023-10-06 13:19:58,332 :INFO : test_e2e : Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2023-10-06 13:19:58,808 :INFO : test_e2e : Entering country name
+2023-10-06 13:20:04,447 :INFO : test_e2e : text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 13:25:57,924 :INFO : test_formfill : Entering first name as siva
+2023-10-06 13:25:58,113 :INFO : test_formfill : Entering email as snnss@gmail.com
+2023-10-06 13:25:58,583 :INFO : test_formfill : Entering gender as Male
+2023-10-06 13:25:59,086 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 13:25:59,509 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 13:25:59,509 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 13:25:59,609 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 13:25:59,609 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 13:26:00,185 :INFO : test_formfill : Entering gender as Female
+2023-10-06 13:26:00,185 :INFO : test_formfill : Entering gender as Female
+2023-10-06 13:26:01,429 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 13:26:01,429 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 13:32:25,320 :INFO : test_formfill : Entering first name as siva
+2023-10-06 13:32:25,468 :INFO : test_formfill : Entering email as snnss@gmail.com
+2023-10-06 13:32:25,847 :INFO : test_formfill : Entering gender as Male
+2023-10-06 13:32:26,150 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 13:32:26,771 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 13:32:26,771 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 13:32:26,871 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 13:32:26,871 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 13:32:27,152 :INFO : test_formfill : Entering gender as Female
+2023-10-06 13:32:27,152 :INFO : test_formfill : Entering gender as Female
+2023-10-06 13:32:27,362 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 13:32:27,362 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 14:45:40,656 :INFO : test_formfill : Entering first name as siva
+2023-10-06 14:45:40,947 :INFO : test_formfill : Entering email as snnss@gmail.com
+2023-10-06 14:45:41,505 :INFO : test_formfill : Entering gender as Male
+2023-10-06 14:45:41,959 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 14:45:42,861 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 14:45:42,962 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 14:45:43,272 :INFO : test_formfill : Entering gender as Female
+2023-10-06 14:45:43,516 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+
+
+
+
+
+
+
+
+
+
+
+2023-10-06 14:47:35,577 :INFO : test_formfill : Entering first name as siva
+2023-10-06 14:47:36,217 :INFO : test_formfill : Entering email as snnss@gmail.com
+2023-10-06 14:47:36,544 :INFO : test_formfill : Entering gender as Male
+2023-10-06 14:47:36,815 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 14:47:37,158 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 14:47:37,258 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 14:47:37,595 :INFO : test_formfill : Entering gender as Female
+2023-10-06 14:47:37,815 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 15:04:17,889 :INFO : test_formfill : Entering first name as siva
+2023-10-06 15:04:18,152 :INFO : test_formfill : Entering email as snnss@gmail.com
+2023-10-06 15:04:18,698 :INFO : test_formfill : Entering gender as Male
+2023-10-06 15:04:19,141 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
+2023-10-06 15:04:19,455 :INFO : test_formfill : Entering first name as abhi
+2023-10-06 15:04:19,557 :INFO : test_formfill : Entering email as abhi@siva.com
+2023-10-06 15:04:19,868 :INFO : test_formfill : Entering gender as Female
+2023-10-06 15:04:20,077 :INFO : test_formfill : Text received from the page×
+Success! The Form has been submitted successfully!.
